@@ -1,0 +1,1 @@
+const t="(prefers-reduced-motion: reduce)",e={matches:!0,media:t};function n(){if(typeof window>"u"||typeof window.matchMedia!="function")return e;try{return window.matchMedia(t)}catch{return e}}function o(){return!n().matches}export{n as a,o as m};
