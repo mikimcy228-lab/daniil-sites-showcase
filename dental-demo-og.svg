@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Демо-концепт KASANERU — сайт стоматологии</title>
+  <desc id="description">Оригинальная типографическая обложка в тёмно-синем, тёплом белом и песочном цветах. Демонстрационный концепт сайта, не реклама действующей клиники.</desc>
+  <rect width="1200" height="630" fill="#102c46" />
+  <rect x="824" width="376" height="630" fill="#fbfaf7" />
+  <path d="M875 112h192v54H929v138h-54z" fill="#d6c3a9" />
+  <path d="M1067 326h54v192H929v-54h138z" fill="#162d3d" />
+  <rect x="903" y="198" width="190" height="245" rx="95" fill="#e6dbcb" />
+  <rect x="926" y="220" width="144" height="201" rx="72" fill="#f6f4ed" />
+  <path d="M998 247v147M951 320h94" fill="none" stroke="#162d3d" stroke-width="2" />
+  <circle cx="998" cy="320" r="47" fill="none" stroke="#d6c3a9" stroke-width="2" />
+  <text x="64" y="80" fill="#f6f4ed" font-family="Arial, sans-serif" font-size="28" font-weight="700" letter-spacing="4">KASANERU</text>
+  <text x="64" y="113" fill="#c3cfce" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">DIGITAL STUDIO</text>
+  <path d="M64 151h696" stroke="#73808a" stroke-width="1" />
+  <text x="60" y="251" fill="#fbfaf7" font-family="Arial, sans-serif" font-size="63" font-weight="600">Сайт стоматологии.</text>
+  <text x="60" y="333" fill="#fbfaf7" font-family="Arial, sans-serif" font-size="63" font-weight="600">Спокойный путь</text>
+  <text x="60" y="415" fill="#e9e1d4" font-family="Arial, sans-serif" font-size="63" font-weight="600">к записи.</text>
+  <rect x="64" y="488" width="492" height="64" rx="32" fill="#f6f4ed" />
+  <text x="310" y="528" text-anchor="middle" fill="#162d3d" font-family="Arial, sans-serif" font-size="25" font-weight="700">Демо-концепт KASANERU</text>
+  <text x="64" y="590" fill="#c3cfce" font-family="Arial, sans-serif" font-size="17">Структура · визуальный язык · путь пациента</text>
+  <text x="1012" y="589" text-anchor="middle" fill="#52616a" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">DENTAL CONCEPT</text>
+</svg>
