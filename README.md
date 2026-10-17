@@ -1,22 +1,15 @@
-# Публичная витрина демо-концептов
+# KASANERU — сайты для стоматологий
 
-Папка подготовлена для GitHub Pages. После авторизации GitHub CLI она будет опубликована как один публичный сайт с четырьмя демо-нишами.
+Публичная статическая сборка для GitHub Pages. В релиз включены только три согласованные страницы:
 
-Каждый макет — демонстрация структуры, не официальный сайт компании.
+- [Главная студии](https://mikimcy228-lab.github.io/daniil-sites-showcase/)
+- [Демонстрация сайта стоматологии](https://mikimcy228-lab.github.io/daniil-sites-showcase/dental/)
+- [Предложение для владельца клиники](https://mikimcy228-lab.github.io/daniil-sites-showcase/dental/for-business/)
 
-## Design source
+Стоматология — демонстрационный концепт, не действующая клиника и не сервис медицинской записи. Бриф подготавливает текст для самостоятельной отправки в Telegram; открытие мессенджера не означает отправленную заявку. Срок и бюджет нового сайта определяются после согласования состава работ.
 
-Figma: https://www.figma.com/design/0A2lk17jcnuRdMAAE2Ppq8
+В этой ветке находятся только готовые HTML/CSS/JavaScript и используемые ресурсы. Черновики других ниш, CRM, контакты лидов, квитанции рассылки и клиентские материалы не включены. Локальные исходники других ниш сохранены отдельно, прежние опубликованные файлы доступны в истории Git.
 
-Figma MCP discovery is currently blocked by the Starter-plan tool-call limit; no pages or frames were created or confirmed in this run.
+Публикация: GitHub Pages, ветка main, корень, с .nojekyll. Пути ресурсов используют базу /daniil-sites-showcase/.
 
-## Verification
-
-Run the static contract test:
-
-```powershell
-$node='C:\Users\vadim\.cache\codex-runtimes\codex-primary-runtime\dependencies\node\bin\node.exe'
-& $node --test 'C:\Users\vadim\Desktop\GPT\sales-agent\03_DEMO_SITES\showcase\tests\validate_showcase.mjs'
-```
-
-All five pages should be reviewed locally on desktop and mobile before publication. Motion is optional enhancement; the `prefers-reduced-motion` media query keeps content visible without animation.
+Исходный проект: Astro. Проверки в рабочем checkout: pnpm test, pnpm test:e2e, pnpm check. Это лабораторные и автоматические проверки, не подтверждение работы на каждом реальном телефоне, screen reader или полевых Core Web Vitals. Внешняя аналитика не подключена.
