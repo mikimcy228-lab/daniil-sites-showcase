@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mikimcy228-lab.github.io/daniil-sites-showcase/sitemap.xml
